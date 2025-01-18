@@ -1,0 +1,9 @@
+venv/
+winappdbg/*.pyc
+winappdbg/.idea
+winappdbg/.vscode
+winappdbg/build
+winappdbg/dist
+winappdbg/html
+winappdbg/pdf
+winappdbg/MANIFEST
