@@ -1,0 +1,14 @@
+File Types to Test{
+    Video Files{
+        MP4, MKV, AVI, MOV, FLV, WMV, WebM
+    }
+    Audio Files{
+        MP3, WAV, FLAC, AAC, OGG
+    }
+    Subtitle Files{
+        SRT, ASS, SUB
+    }
+    Streaming Protocols{
+        M3U, M3U8, RTSP
+    }
+}

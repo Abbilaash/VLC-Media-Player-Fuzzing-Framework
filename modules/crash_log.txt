@@ -1,0 +1,305 @@
+Crash Log for Malformed Files
+============================================================
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_3gp_malformed.3gp
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+avcodec error: Could not open A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_3gp_malformed.3gp: Unknown error
+main: end of playlist, exiting
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_malformed.flv
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+main error: buffer deadlock prevented
+main: end of playlist, exiting
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_mkv_malformed.mkv
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+mkv error: unknown codec id=`V_MPEG4/�SO/ASP'
+mkv error: Dummy element too large or misplaced at 608... skipping to next upper element
+mkv error: This element is outside its known parent... upping level
+mft error: Could not find suitable MFT decoder
+main error: could not identify codec
+main error: Unidentified codec
+main error: VLC could not identify the audio or video codec
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 219323... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 225484... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 225689... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 240138... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 255001... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 259683... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 259739... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 263268... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 269128... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 269187... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 269252... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 272895... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 273024... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 273334... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 273343... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 273364... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 273478... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 273560... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 273576... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 284833... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 300698... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 660592... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 662723... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 662742... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 662765... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 662873... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 662953... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 663052... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 663115... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 663224... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665132... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665229... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665250... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665350... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665427... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665544... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665641... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665719... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665815... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665867... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 665961... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666068... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666181... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666203... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666273... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666352... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666444... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666571... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 666613... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 666625... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 678701... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 678735... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695005... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695046... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 695164... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 695216... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695259... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 695386... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695488... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695524... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695620... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 695711... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 703773... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 703864... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 703926... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1220649... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1220673... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1220761... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1231046... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1246360... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1246430... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1260195... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1260321... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1260415... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1260473... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1260587... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1260931... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1279957... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1391038... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1441344... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1441409... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1441545... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1450986... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1451116... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1451239... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1451282... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1451351... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1451370... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1455754... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1455853... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1465412... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1473124... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1473211... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1473312... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1480630... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1484212... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1497495... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1497581... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1509412... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1509483... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1509557... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1509683... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1509698... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1509795... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1509844... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1511751... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1511817... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1511861... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512482... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512559... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512613... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512633... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1512654... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1512666... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512788... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1512917... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1513079... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513129... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513144... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1513170... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1513217... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513289... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513404... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513421... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1513543... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1513652... skipping to next upper element
+mkv error: Dummy element too large or misplaced at 1513740... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1543205... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1904270... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1904273... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1925957... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1926097... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 1926395... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092479... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092525... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092531... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092545... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092670... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2092790... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2093000... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2093132... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2093228... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2095846... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096029... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096290... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096394... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096490... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096672... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096762... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096824... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2096891... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2097056... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2097086... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2097327... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2097375... skipping to next upper element
+mkv error: Dummy Element at unexpected position... corrupted file?
+mkv error: Dummy element too large or misplaced at 2097702... skipping to next upper element
+main error: buffer deadlock prevented
+main: end of playlist, exiting
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_mov_malformed.mov
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+mp4 error: cannot create chunks index
+main: end of playlist, exiting
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_mp3_malformed.mp3
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+main: end of playlist, exiting
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_wmv_malformed.wmv
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+avcodec error: Could not open A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\sample_wmv_malformed.wmv: Unknown error
+main: end of playlist, exiting
+-- logger module stopped --
+
+
+Testing file: A:\PROJECTS\VLC-Media-Player-Fuzzing-Framework\modules\malformed_samples\test_play_malformed.mp4
+============================================================
+﻿-- logger module started --
+dummy: using the dummy interface module...
+mp4 error: cannot create chunks index
+main: end of playlist, exiting
+-- logger module stopped --
+
