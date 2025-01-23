@@ -71,3 +71,6 @@ main error: VLC could not identify the audio or video codec
 ## Contributing
 Contributions are welcome! If you have suggestions for improvement or have identified issues, please open an issue or submit a pull request.
 
+[!WARNING]
+This project is for educational and research purposes only. Use it responsibly and ensure compliance with applicable laws and regulations.
+
