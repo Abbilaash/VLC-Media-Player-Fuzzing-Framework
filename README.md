@@ -9,6 +9,7 @@ This project is a fuzzing framework designed to identify vulnerabilities in VLC 
 - **Detailed Logs:** Identifies and logs crashes or unexpected behavior.
 
 ## Project Structure
+```
 VLC-Media-Player-Fuzzing-Framework
 ├── modules
 |   ├── samples
@@ -32,6 +33,7 @@ VLC-Media-Player-Fuzzing-Framework
 ├── README.md          # Project documentation
 ├── .gitignore         # Ignoring files
 └── requirements.txt   # Python dependencies
+```
 
 ## Installation
 1. Clone repository
